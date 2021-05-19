@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mcveight
-- 👀 I’m interested in linux, programming and that's stuff
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on some opensource projects to improve my skills
-- 📫 How to reach me from my email mcveight14@gmail.com or telegram @Mcveight
+- 👀 I’m interested in GNU/Linux and all related with programming 
+- 🌱 I’m currently learning Django, Flask and Docker
+- 💞️ I’m looking to collaborate on some projects to improve my skills
+- 📫 How to reach me out. Email mcveight14@gmail.com or Telegram @Mcveight
 
 <!---
 mcveight/mcveight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
